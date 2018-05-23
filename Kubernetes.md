@@ -1,7 +1,10 @@
 # Kubernetes Links
 
-## Patterns
+## Comparisons
 * [Comparing Kubernetes Operator Pattern with alternatives](https://medium.com/@cloudark/why-to-write-kubernetes-operators-9b1e32a24814) - CloudARK
+* [Choosing a CNI Provider](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/) - Chris Love
+
+## Patterns
 * [Dynamic secrets on Kubernetes pods using Vault](https://medium.com/@gmaliar/dynamic-secrets-on-kubernetes-pods-using-vault-35d9094d169) - Guy Maliar
 * [Advanced Kubernetes Objects You Need to Know](https://engineering.opsgenie.com/advanced-kubernetes-objects-53f5e9bc0c28) - Mustafa Akin
 
@@ -10,6 +13,7 @@
 * [Deploying Rock Solid Applications with Kubernetes](https://hackernoon.com/deploying-rock-solid-applications-with-kubernetes-230fd9bb61f4) - Jelmer Snoeck
 
 ## CI/CD
+* [Jenkins X: Easy CI/CD for Kubernetes](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/) - James Strachan (Video)
 * [State of Cloud Native CI/CD Tools for Kubernetes](https://engineering.opsgenie.com/cloud-native-continuous-integration-and-delivery-tools-for-kubernetes-e6ea34d308c) - Mustafa Akin
 * [Blue/Green Deployments using Helm Charts](https://medium.com/@saraswatpuneet/blue-green-deployments-using-helm-charts-93ec479c0282) - Puneet Saraswat
 
