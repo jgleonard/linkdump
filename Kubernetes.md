@@ -5,6 +5,7 @@
 * [Choosing a CNI Provider](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/) - Chris Love
 
 ## Patterns
+* [One Chart to Rule Them All: Continuous Deployment with Helm at Ticketmaster](https://www.youtube.com/watch?v=HzJ9ycX1h0c) - Michael Goodness (Video)
 * [Dynamic secrets on Kubernetes pods using Vault](https://medium.com/@gmaliar/dynamic-secrets-on-kubernetes-pods-using-vault-35d9094d169) - Guy Maliar
 * [Advanced Kubernetes Objects You Need to Know](https://engineering.opsgenie.com/advanced-kubernetes-objects-53f5e9bc0c28) - Mustafa Akin
 
